@@ -10,7 +10,7 @@ export default defineConfig(({ mode }) => ({
   // IMPORTANT: Change this to your GitHub repo name for GitHub Pages deployment
   // Example: base: "/my-trading-site/"
   // For Vercel/Netlify/home server, use: base: "/"
-  base: "/",
+  base: "/portfolio",
   server: {
     host: "::",
     port: 8080,
