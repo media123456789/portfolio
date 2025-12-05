@@ -35,6 +35,9 @@ const Index = () => {
                 src={heroImage}
                 alt="Trading terminal with candlestick charts and server infrastructure"
                 className="w-full h-auto shadow-lg"
+                fetchPriority="high"
+                width={1920}
+                height={1080}
               />
             </div>
           </div>
